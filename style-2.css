@@ -1,0 +1,40 @@
+
+body {
+    padding-left: 20%;
+    padding-right: 20%;
+    border-style: hidden;
+    text-align: justify;
+    background-color: rgb(243, 208, 204);
+ }
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    letter-spacing: 4px;
+    margin-top: 0;
+    margin-bottom: 84px;
+    font-family: sans-serif;
+    color: rgb(129, 61, 12);
+}
+
+h2 {
+    font-size: 25px;
+    margin-bottom: 84px; 
+    font-family: sans-serif;
+    text-align: center;
+    line-height: 1.4;
+    text-transform: uppercase;
+    font-weight: normal;    
+}
+
+h3 {
+    font-size: 32px;
+    margin-bottom: 4px;
+}
+
+p {
+    font-size: 22px;
+    margin-top: 1px;
+    margin-bottom: 20px;
+    line-height: 1.4;
+}
