@@ -4,6 +4,7 @@ body {
     padding-right: 20%;
     border-style: double;
     text-align: justify;
+    background-color: lightcyan;
  }
 
 h1 {
@@ -13,16 +14,19 @@ h1 {
     letter-spacing: -2px;
     margin-top: 0;
     margin-bottom: 32px;
+    color: blue;
 }
 
 h2 {
     font-size: 36px;
     margin-bottom: 4px;
+    color: blue;
 }
 
 h3 {
     font-size: 24px;
-    margin-bottom: 4px;  
+    margin-bottom: 4px;
+    color: blue;  
 }
 
 p {

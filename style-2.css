@@ -4,7 +4,7 @@ body {
     padding-right: 20%;
     border-style: hidden;
     text-align: justify;
-    background-color: rgb(243, 208, 204);
+    background-color: antiquewhite;
  }
 
 h1 {
@@ -14,7 +14,7 @@ h1 {
     margin-top: 0;
     margin-bottom: 84px;
     font-family: sans-serif;
-    color: rgb(129, 61, 12);
+    color: brown;
 }
 
 h2 {
@@ -24,12 +24,14 @@ h2 {
     text-align: center;
     line-height: 1.4;
     text-transform: uppercase;
-    font-weight: normal;    
+    font-weight: normal; 
+    color: brown;   
 }
 
 h3 {
     font-size: 32px;
     margin-bottom: 4px;
+    color: brown;
 }
 
 p {

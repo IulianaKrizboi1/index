@@ -5,7 +5,7 @@ body {
     padding-bottom: -20%;
     border-style: outset;
     text-align: justify;
-    background-color: papayawhip;
+    background-color: purple;
  }
 
 h1 {
@@ -16,7 +16,7 @@ h1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-display: swap;
     letter-spacing: 1px;
-    color: rgb(76, 17, 131);
+    color: white;
 }
 
 h2 {
@@ -26,6 +26,7 @@ h2 {
     margin-bottom: 4px;
     margin-top: 54px;
     text-transform: uppercase;
+    color: white;
 }
 
 p {
@@ -33,4 +34,5 @@ p {
     margin-top: 10px;
     font-family: sans-serif;
     line-height: 1.44;
+    color: white;
 }
